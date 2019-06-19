@@ -1,3 +1,5 @@
+TODO: Scrap the people. Create a timeline of periods only (or, at least, things that can be plotted directly).
+
 ## Discovering the people
 
 Each era in time is defined by its people. You are now going to find a list of people who lived in your chosen historical period.

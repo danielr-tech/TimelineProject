@@ -10,7 +10,7 @@ To start, you will use Wolfram|Alpha and Free-Form Linguistic Input to find out 
 
 --- task ---
 
-Click between any two cells in your notebook and press equals (`=`) twice. This should make an orange star appear: ![Wolfram|Alpha symbol](images/WolframStar). The cell is now ready to search Wolfram|Alpha (alternatively, you can [go to the website directly](https://www.wolframalpha.com/) and search there).
+Click between any two cells in your notebook and press equals (`=`) twice. This should make an orange star appear: ![Wolfram Alpha symbol](images/WolframStar). The cell is now ready to search Wolfram|Alpha (alternatively, you can [go to the website directly](https://www.wolframalpha.com/) and search there).
 
 Type in a period or people in history and hit enter to find out more about it.
 For example, try searching for "Ancient Greece".
@@ -29,6 +29,7 @@ Type in a historical period and hit enter.
 
 There may be multiple interpretations of your input. If so, click the three dots to choose the one you want, then click the tick to confirm your choice. For example:
 
+TODO: merge these into one image and add arrows between them.
 ![Free-form input](images/FreeFormCellFull.png)
 ![Free-form alternative interpretation](images/AlternativeInterpretation.png)
 ![Free-form accepted interpretation](images/AcceptedInterpretation.png)
@@ -37,6 +38,7 @@ Alternatively, choose from the built-in list of available entities by evaluating
 
 One you have your historical period entity, see its raw code form with the function `FullForm`. For example:
 
+TODO: Should this have input/output numbers showing? Same applies to later images.
 ![FullForm of an entity](images/FullFormEntity.png)
 
 This is also what will appear if you try to copy your entity into a text file.
@@ -91,5 +93,7 @@ Plot a timeline of your historical period.
 ```
 TimelinePlot[<your entity>]
 ```
+TODO: Add an image.
+
 
 --- /task ---
