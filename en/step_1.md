@@ -1,4 +1,4 @@
-## Historical timeline
+## Introduction
 
 In this project, you will use the Wolfram Language to create a timeline showing the lifetimes of people in a specific period of history.
 

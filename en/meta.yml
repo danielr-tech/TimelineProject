@@ -1,4 +1,4 @@
-title: Face Swap
+title: Timeline
 hero_image: images/banner.png
 description:
 version: 4
@@ -7,7 +7,8 @@ copyedit: false
 last_tested: "2018-12-06"
 steps:
   - title: Introduction
-  - title: Finding Faces
-  - title: Basic Face Swap
-  - title: Making the Face Swap Look Better
-  - title: Completing your Face Swap
+  - title: Discovering an era
+  - title: Plotting a timeline
+  - title: Improving the timeline
+  - title: Challenge: "improve your timeline further"
+    challenge: true
